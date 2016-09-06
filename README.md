@@ -1,7 +1,8 @@
 # Open01.com_Recruiting-Java-Experts-in-BEIJING
 Open01.com is a Cambridge(UK)-MIT-rooted big data company in Beijing, focused on machine data intelligence.
 
-#我们的公司网站open01.com      公司正在快速成长，多个位置正在招聘，包括JavaScript、Hadoop、NLP、Web前端、UI、统计学、数学专家
+#URL: www.open01.com      
+#开数科技公正在快速成长，多个位置正在招聘，包括JavaScript、Hadoop、NLP、Web前端、UI、统计学、数学专家
 
 #开数是一家专注于机器数据应用的初创公司，致力于通过云平台、多维度的数据收集、人工智能的分析预测，为企业提供决策支持、机会挖掘#、效率提升等SAAS服务。开数科技创始团队技术专家来自美国MIT、哈佛大学、纽约州立大学和英国剑桥大学，市场运营专家来自罗兰贝格、
 #埃森哲、摩立特、贝恩等业界知名咨询公司。
