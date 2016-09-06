@@ -1,5 +1,5 @@
 # Open01.com_Recruiting-Java-Experts-in-BEIJING
-Open01.com is a big data company in Beijing, focusing on machine data intelligence
+Open01.com is a Cambridge(UK)-MIT-rooted big data company in Beijing, focused on machine data intelligence.
 
 #我们的公司网站open01.com      公司正在快速成长，多个位置正在招聘，包括JavaScript、Hadoop、NLP、Web前端、UI、统计学、数学专家
 
